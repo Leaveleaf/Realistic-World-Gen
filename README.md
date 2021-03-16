@@ -1,10 +1,13 @@
 ## REALISTIC WORLD GEN ##
-
-http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3
+   		
+		私人用，感兴趣可以下载，但不要发布
 
 ## CHANGELOG ##
      
-        Version Alpha 1.3 '03-01-2015'
+   		Version Alpha 1.3.1 '03-16-2021'
+        - Added ChromatiCraft suppot
+		
+		Version Alpha 1.3 '03-01-2015'
         - Added rivers
         - Fixed animals spawing in deserts
         - Fixed ore gen events
