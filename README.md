@@ -4,7 +4,7 @@
 
 ## CHANGELOG ##
      
-   		Version Alpha 1.3.1 '03-16-2021'
+   		Version Alpha 1.3.3 '03-16-2021'
         - Added ChromatiCraft suppot
 		
 		Version Alpha 1.3 '03-01-2015'
